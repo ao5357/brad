@@ -383,46 +383,13 @@ exclude:
   - LICENSE
   - netlify.toml
   - readme.md
-  - "vendor/bundle/"
-  - "vendor/cache/"
-  - "vendor/gems/"
-  - "vendor/ruby/"
-future: true
-highlighter: rouge
-include:
-  - ".htaccess"
-keep_files:
-  - ".git"
-  - ".svn"
-kramdown:
-  auto_ids: true
-  entity_output: as_char
-  footnote_nr: 1
-  hard_wrap: false
-  input: GFM
-  parse_block_html: false
-  parse_span_html: false
-  show_warnings: true
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-liquid:
-  strict_filters: true
-  strict_variables: false
-markdown: kramdown
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-paginate: 30
-paginate_path: /blog/page-:num/
-permalink: /blog/:title/
 plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
-profile: true
-safe: true
 sass:
   sass_dir: assets/css
   style: :compressed
-strict_front_matter: true
 theme: jekyll-theme-primer
 timezone: Etc/UTC # Allows use to set dates/times without a GMT offset.
-unpublished: false
 whitelist:
   - jekyll-redirect-from
