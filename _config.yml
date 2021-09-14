@@ -106,7 +106,7 @@ resume:
         - "Learned to use point-of-sale machines"
     - company: "Southfield Public Library"
       position: "Adult Services Intern"
-      website: "http://www.sfldlib.org/"
+      website: "https://www.sfldlib.org/"
       location:
         address: "26300 Evergreen Road"
         postalCode: "MI 48076"
@@ -122,7 +122,7 @@ resume:
         - "Improved year-over-year efficiency of paper tax form program"
     - company: "Canton Public Library"
       position: "Digital Resources Developer"
-      website: "http://www.cantonpl.org/"
+      website: "https://www.cantonpl.org/"
       location:
         address: "1200 S Canton Center Rd"
         postalCode: "MI 48188"
@@ -190,7 +190,7 @@ resume:
   volunteer:
     - organization: "Canton Historical Society"
       position: "Board member (secretary, treasurer)"
-      website: "http://www.cantonhistoricalsociety.org/"
+      website: "https://www.cantonhistoricalsociety.org/"
       startDate: "2011-12-01"
       endDate: "2014-12-31"
       summary: "Served the people of Canton in preserving and teaching the township's history"
@@ -276,7 +276,7 @@ resume:
     - name: "Library Websites Adapt to Smartphone Growth"
       publisher: "Library Journal"
       releaseDate: "2012-07-26"
-      website: "http://www.thedigitalshift.com/2012/07/mobile/library-websites-adapt-to-smartphone-growth/"
+      website: "https://www.thedigitalshift.com/2012/07/mobile/library-websites-adapt-to-smartphone-growth/"
       summary: "Prescient predictions of responsive design in libraries"
   skills:
     - name: "HTML"
@@ -371,7 +371,7 @@ woff:
 ## @see https://creativecommons.org/share-your-work/
 content_license:
   name: "CC BY-SA 4.0"
-  url: "http://creativecommons.org/licenses/by-sa/4.0/"
+  url: "https://creativecommons.org/licenses/by-sa/4.0/"
 
 ## Jekyll configs
 ## @see https://jekyllrb.com/docs/configuration/
@@ -405,9 +405,7 @@ kramdown:
   parse_span_html: false
   show_warnings: true
   smart_quotes: lsquo,rsquo,ldquo,rdquo
-  toc_levels: [1, 2, 3, 4, 5, 6]
 liquid:
-  error_mode: strict
   strict_filters: true
   strict_variables: false
 markdown: kramdown
