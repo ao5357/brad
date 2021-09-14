@@ -168,7 +168,7 @@ resume:
       summary: "Led a talented team of Drupal developers"
       highlights:
         - "Nurtured and supervised a team of developers"
-        - "Executed a vision for reusable, component-based Drupal archtecture"
+        - "Executed a vision for reusable, component-based Drupal architecture"
         - "Balanced administrative duties with development and site support"
         - "Liaison to sales, client service, and project management teams"
     - company: "Solve it once"
@@ -183,9 +183,10 @@ resume:
       startDate: "2020-04-20"
       summary: "Started the greatest tech company this world has ever seen"
       highlights:
-        - "Impress clientele with prompt, high-quality Drupal and JAMstack work"
-        - "Provide fast, low-waste branding, UX, and other services"
-        - "Contribute open source solutions to the community"
+        - "Impress clientele with prompt, high-quality Drupal and JAMstack sites"
+        - "Perform expert-level Drupal 9 site building and custom module/theme development"
+        - "Improve accessibility, performance, and SEO using cutting-edge web standards"
+        - "Provide on-going support and proactively keep sites patched for security"
   volunteer:
     - organization: "Canton Historical Society"
       position: "Board member (secretary, treasurer)"
