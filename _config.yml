@@ -80,6 +80,7 @@ exclude:
   - LICENSE
   - netlify.toml
   - readme.md
+  - vendor/bundle
 plugins:
   - jekyll-redirect-from
   - jekyll-sitemap

@@ -164,6 +164,22 @@ work:
       - "Perform expert-level Drupal 9 site building and custom module/theme development"
       - "Improve accessibility, performance, and SEO using cutting-edge web standards"
       - "Provide on-going support and proactively keep sites patched for security"
+  - company: "Principal Financial Group"
+    position: "Senior Software Engineer"
+    website: "https://www.principal.com"
+    location:
+      address: "711 High St"
+      postalCode: "IA 50392"
+      city: "Des Moines"
+      countryCode: "US"
+      region: "Iowa"
+    startDate: "2024-04-15"
+    summary: "Drupal development, web components, special projects"
+    highlights:
+      - "Contribute Drupal enhancements to Fortune 500 website on cross-functional agile team"
+      - "Integrate third-party services into public experience using web components"
+      - "Extend web-component-based design system with reusable recipes"
+      - "Help ensure performance and reliability via automated and manual testing"
 volunteer:
   - organization: "Canton Historical Society"
     position: "Board member (secretary, treasurer)"
