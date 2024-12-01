@@ -16,9 +16,9 @@ basics:
   email: "brad@solveitonce.com"
   phone: "(248) 721-0350"
   location:
-    address: "1428 Mark Ave"
-    postalCode: "MI 48146"
-    city: "Lincoln Park"
+    address: "5168 Walden Dr"
+    postalCode: "MI 48473"
+    city: "Swartz Creek"
     countryCode: "US"
     region: "Michigan"
   profiles:
@@ -152,9 +152,9 @@ work:
     position: "Proprietor"
     website: "https://solveitonce.com"
     location:
-      address: "1428 Mark Ave"
-      postalCode: "MI 48146"
-      city: "Lincoln Park"
+      address: "5168 Walden Dr"
+      postalCode: "MI 48473"
+      city: "Swartz Creek"
       countryCode: "US"
       region: "Michigan"
     startDate: "2020-04-20"
